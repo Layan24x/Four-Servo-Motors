@@ -51,4 +51,5 @@ All servo motors share the same 5V and GND connections.
 
 ## Simulation
 
-This project was designed and tested using Tinkercad Circuits.
+This project was designed and tested using Tinkercad Circuits → (https://www.tinkercad.com/things/7UQPVcJ7kzJ-circuit-4-servo-motors)
+
